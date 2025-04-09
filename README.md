@@ -19,3 +19,4 @@ The purpose of the analyze() function is to assess each text input's sentiment. 
 The next step is to generate a small dataset of comments or product reviews using a few sample sentences from a Python dictionary. The data is first converted into a pandas DataFrame so that the text can be arranged in a columnar fashion. The sentiment of each sentence is identified as "positive," "negative," or "neutral" using the analyze() function and apply() method. This is appended to a new column called "sentiment." The original list of sentences and the sentiments are printed when the DataFrame with the processed data is printed. This method is able to effectively analyze the general sentiment that is held in a set of text data using basic NLP techniques.*
 
 *OUTPUT*
+![Image](https://github.com/user-attachments/assets/4e87b238-ecfc-4222-8035-ccbec0b1c4d1)
